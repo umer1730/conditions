@@ -1,0 +1,59 @@
+#include<iostream>
+#include<windows.h>
+using namespace std;
+void printMaze();
+main()
+{ 
+    system("cls");
+    printMaze();
+    cout<<"P";
+}
+cout<<"#######################################"<<endl;
+    cout<<"#                                     #"<<endl;
+    cout<<"#                                     #"<<endl;
+    cout<<"#                                     #"<<endl;
+    cout<<"#                                     #"<<endl;
+    cout<<"#                                     #"<<endl;
+    cout<<"#                                     #"<<endl;
+    cout<<"#                                     #"<<endl;
+    cout<<"#                                     #"<<endl;
+    cout<<"#                                     #"<<endl;
+    cout<<"#######################################"<<endl;
+}
+    cout<<"#######################################"<<endl;
+    cout<<"#                                     #"<<endl;
+    cout<<"#                                     #"<<endl;
+    cout<<"#                                     #"<<endl;
+    cout<<"#                                     #"<<endl;
+    cout<<"#                                     #"<<endl;
+    cout<<"#                                     #"<<endl;
+    cout<<"#                                     #"<<endl;
+    cout<<"#                                     #"<<endl;
+    cout<<"#                                     #"<<endl;
+    cout<<"#######################################"<<endl;
+}
+
+
+
+
+
+
+
+    cout<<"#######################################"<<endl;
+    cout<<"#                                     #"<<endl;
+    cout<<"#                                     #"<<endl;
+    cout<<"#                                     #"<<endl;
+    cout<<"#                                     #"<<endl;
+    cout<<"#                                     #"<<endl;
+    cout<<"#                                     #"<<endl;
+    cout<<"#                                     #"<<endl;
+    cout<<"#                                     #"<<endl;
+    cout<<"#                                     #"<<endl;
+    cout<<"#######################################"<<endl;
+}
+
+  
+
+
+
+
