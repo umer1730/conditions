@@ -2,7 +2,7 @@
 using namespace std;
 main()
 {
-    intx,y,z
+    int x,y,z
     cout<<"num1";
     cin>x;
     cout<<"num2";
