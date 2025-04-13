@@ -7,6 +7,7 @@ int value(int num1,int num2)
     if (product > 10)
     {
     cout<<"product is greater then 10";
+    cout<<"product is greater then 10";
     }
     if (product < 10)
     {
